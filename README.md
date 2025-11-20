@@ -1,12 +1,12 @@
-!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE html>
+<html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mon premier site</title>
     <link rel="stylesheet" href="style.css">
 </head>
- <body>
+<body>
     <div class="container">
         <h1>Bienvenue sur mon premier site</h1>
         <p class="msg">
@@ -17,7 +17,7 @@
         </p>
         <p class="small">— Je commence de zéro et je veux apprendre pas à pas —</p>
     </div>
- </body>
+</body>
 </html>
 body{
     background-color:#f19ce3 ;
@@ -50,3 +50,6 @@ h1 {
     color: #eadfdf;
     font-size: 14px;
 }
+
+    font-size: 14px;
+
